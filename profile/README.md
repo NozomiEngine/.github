@@ -1,6 +1,4 @@
-# Nozomi
-
-Modern game engine for 2D, Web, Mobile, and Desktop.
-
-Built for creator productivity.  
-Focused on fast iteration, clean workflow, and long-term engine independence.
+# NOZOMI
+Modern cross-platform engine. 2D / 3D / Web / Native.
+Built for pure productivity and architectural elegance.
+Fast iteration. Clean pipelines. Total structural independence.
